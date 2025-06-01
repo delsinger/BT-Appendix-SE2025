@@ -1,0 +1,187 @@
+IP:
+    som start, för att värma upp... du kanske läste
+B:
+    nej, jag har inte läst jättemycket
+IP:
+    jättekortfattat så handlar det om phishing, social engineering och mail, ens erfarenheter och träning inför framtiden. Vad man skulle vilja förbättra... och liknande.
+    så för start... skulle jag kunna berätta lite generell erfarenhet med mail och meddelanden du får på jobbet.
+    Märker du ofta att det är konstiga saker du får som phishing och liknande?
+B:
+    ibland så blir det ju tydligt, men man får ju alltid... någonting, man tycker själv att det är tydligt
+    men jag tror att många gånger, så passerar det som man inte egentligen tänker på. För att i min inbox så har jag så sjukt mycket X-mail som jag bara raderar
+    så jag raderar ju i stort sett allt som inte är någonting som jag känner att det här ska lägga tid på.
+    Jag tror att mycket raderas säkert bort som egentligen kanske är ett mera phishing baserat utan att jag ens läser.
+    Men i vissa fall kan man identifiera att det här är verkligen...
+IP:
+    Men då kommer... vad är de vanligaste röda flaggorna som när du märker att det här är ju konstigt?
+B:
+    ja men framförallt när man får såhär... det vanligaste är ju verkligen när man ska gå vidare med någonting såhär klicka på... eller kan du svara på det här eller liksom och sen är också 
+    Så märker man också att det kommer en ett mail med en liknande mailadress som jobbadress fast det inte är ja våran jobbadress
+    mycket det här manager@blablabla, de kom ju och då... nej kanske inte.
+    kanske inte
+IP:
+    ja men okej, men när du får ett som är misstänksamt... som ser konstigt ut, vad är den första reaktionen och tankeprocessen?
+    vilka steg brukar du ta?
+B:
+    nej men jag fick något...
+    det första det var, att jag bara skrev ett mail till *chef på IT avdelningen*, "hur vill ni ha det? Vill du att jag vidarebefordrar mailet eller hur vill du ha informationen?"
+    så att jag inte skickar vidare någonting utan att han var informerad.
+IP:
+    Så klickar han på länket...
+B:
+    ja men inte...här "från Sofia"
+    nej men mer: "*Chef på IT avdelningen*, vad tycker du jag ska göra? vill du ha mailet" "nej lägg det som ett supportärende" svarar hen då.
+    Så jag brukar kontakta hen när jag verkligen har identifierat någonting som jag tycker att det här behöver lyftas.
+    Sen har jag säkert raderat sånt som utan att ha lyft det vidare utan att jag har ens märkt det.
+    Mycket mail raderar jag utan att ens läsa det.
+IP:    
+    Många av de personerna kommer ju antagligen maila tillbaka om det skulle vara någonting.
+B:
+    exakt
+IP:
+    Hur skulle du beskriva din nuvarande kunskap om phishing från skala 1 till 5, där 1 är ingenting och 5 är "jag är stensäker på allt det här"?
+B:
+    Absolut inte stensäker, alla kan luras in i någonting för att de som är skickliga, de är skickliga, men de här lite mera "nybörjarna" där kan man identifiera ganska snabbt.
+    Så jag skulle säga mellan 3 och 4. För det är många som är otroligt skickliga, så det är till och med så att vår it-avdelning ibland har klickat på grejer
+IP:
+    Du känner dig relativt säker med att kunna identifiera?
+B:
+    jag är väldigt aktsam det skulle väl ta mig mycket att jag ska klicka på någonting. Utan det är verkligen att det kan komma någonting och så är man i gråzonen
+    vad är det är... Men då väljer jag hellre att radera den än att gå in på det.
+IP:    
+    Okej, då kommer nästa fråga om... har du någonsin klickat på någonting eller trott att du har klickat på någonting, vad hände då?
+    Och vad märkte du att... vad gjorde att du märkte att det var konstigt?
+B:    
+    kanske inte klickat på länken, men däremot fejksidor är ju väldigt enkelt. Ett sånt exempel är faktiskt, och då känner man ju sig lite korkad,
+    men ett exempel var faktiskt under julhandeln, när alla är *pekar runt* såhär, såhär, såhär, såhär, såhär, såhär, såhär, såhär, såhär...
+    då kommer det ju oftast upp fejksidor, och då bland annat så hade jag tänkt att jag skulle köpa
+    en present och hade varit inne på den svenska sidan, exempelSida.com... men så finns det en en fejksida
+    som är exempelSidaSverige och den kom upp och man tänkte inte så mycket på det man hade redan spanat in det här... och gick in på den...
+    och där är det ganska lätt, när man är inne i det... så att sådana sidor kan ibland, om man inte...
+    börjar man tittar tre sekunder till, och texten är översätt med hjälp av någonting...
+    men det är inte alltid, man gör det när man har bråttom
+    och det här är det "vi vet exakt vad man måste söka efter", men när det går snabbt... då är det ganska lätt att missta sig.
+    sen vet man ju det och har man gjort det en gång, då håller man ju alltid ögonen extra öppna, men det kan hända utan att man själv tror att man skulle luras in i någonting sådant. 
+    så det kan hända men man är ju väldigt
+    "om sig, kring sig" och det är samma man försöker lära barn hela tiden... att vara uppmärksamma. Och de blir skolade på ett annat sätt, så de blir väldigt duktiga
+    från början att vara kritiska... sen kanske de inte är kritiskamot annat men men just den delen.
+IP:
+    "jag såg det här på tiktok"
+B:
+    ja men lite så, "det här såg jag på tiktok"... men det märker jag faktiskt att de är otroligt öppna med öron och ögon, att de lär sig.
+    Min förhoppning är de blir själv duktigare och duktigare att alla de som håller på med det här att det någonstans börjar försvinna
+    för att alla börjar bli lite mer kritiska... liksom generationen över mig, den har ju varit mer mottaglig mot phishing. Det märker man ju nu att många är ju mycket mer upplysta.
+IP:    
+    Jamen verkligen. 
+    Hur bekväm känner du dig att fråga kollegor eller managers om du är osäker, varför känner du eller kännder dig inte bekväm?
+B:
+    Nej men jag tycker att man har kommit så pass långt att jag känner mig nog ganska bekväm att fråga men jag tror att det har nog också varit en period när folk har varit rädda för att känna sig dumma och kanske valt att inte fråga. 
+    Men jag tror någonstans att jag tycker att man har passerat den gränsen, man har kommit så långt att det är en normal sak. Det här är så pass... man vet att det försigår
+    och de som gör det är professionella kriminella och det kommer nya tekniker, det kommer AI. Det blir lättare att göra de här finjusteringarna, att det ser äkta ut.
+    Så där behöver man ju ibland ha flera ögon, alltså det här "hur ska jag tänka?", "vad tror du?", "jag tror det här", "vad tycker du?", och så vidare.
+    Och det märks ju också att då är man ju uppmärksam, och jag tror att det är bättre att fråga för att ingen kan vara hundra procent säker.
+    Nej, så jag känner mig nog bekväm i det och där tror jag man har kommit en bit på väg också.
+IP:
+    om du misstänker att du får ett phishing-mail, hur brukar du rapportera... du sa att du skickade till *Chef på IT avdelningen*, vi har ju till exempel också
+    i Outlook en "report-button"... är det någonting som du har använt?
+B:
+    jag har faktiskt inte använt det, utan jag brukar ju skicka mina mejl och en bild
+    och säga "haha" när jag håller över länken
+    och då svarade hen med: "ja men du kan antingen göra såhär, och såhär, och då såhär".
+    Jag lägger en tryck att det har kommit, men många gånger så är det nog så att jag raderar det... men men de vill ju ha in den informationen...
+    Men många gånger kan jag känna att "jag vill inte ha det här i min inbox"
+    och då hellre ta bort det, då jag inte vill att det ska ligga där för det är så lätt att man råkar klicka på det bara för att den ligger där.
+    Det har ju hänt kollegor, att de trott att de har redan raderat det, så har det varit en fördröjning och sen så råkar de klicka...
+    så att man vill bara bli av med det.
+IP:
+    Rimligt, då kommer vi in på nästa del som handlar om tidigare träningserfarenheter och framtida preferenser.
+    Har du någonsin haft någon träning inom phishing eller har du upplevt någonting inom ämnet på företaget?
+B:    
+    Vi har gjort någonting i formen av träning, det skulle jag säga...
+    det är nog senaste året som man har uppmärksammat det och verkligen blivit mer upplysande om det.
+    Annars har det nog varit mer "samhällsinformation" men det är väl någonting som företaget har tagit tag i nu, vilket jag tycker är jättebra.
+    Annars har jag inte, på mina tidiga arbetsplatser, inte haft någon specifik träning.
+IP:
+    Vilket format har det förekommit, typ under möten, konferenser, Sharepoint?
+B:    
+    Ja men det är väl, egentligen alla de du nämnde. 
+    På konferenser så hade vi ju en del där det bara handlade om det... som man skulle då bli väldigt mycket mer medveten och använda ett visst beteende.
+    Sen kommer det också komma digital träning i hur man ska hantera det och hur man ska tänka, så det kommer från lite olika håll.
+    Men det är ju egentligen först senaste året skulle jag säga som man har börjat jobba mer aktivt med det. 
+IP:
+    Jo men de började ju där vid sommaren förra året...
+    Finns det några specifika kunskapsområden eller praktiska kunskaper som skulle göra att du skulle känna dig mer säker på att identifiera phishing?
+B:
+    Ja, men jag tycker det var ganska bra att man på konferenserna så lyfter man ju också fram lite olika exempel, alltså såhär skulle det kunna se ut
+    och det tror jag är en ganska bra väg att gå... att man kan exemplifiera för det kan ta så många olika skepnader.
+    Så att det är inte bara att du ska klicka på en länk utan det kan vara så många andra grejer. 
+    Så det tyckte jag var ändå ganska bra så det tror jag man kan också göra mer av.
+IP:
+    visa exempel?
+B:
+    Visa liksom... verkligen, "det här är exempel på en person som försöker få dig att göra någonting".
+    Så det kan vara bra att upplysa att det kommer olika skepnader?
+IP:    
+    så nu har vi ju snackat om realtidsexempel, är det några andra format du skulle föredra, träningsmässigt då, för framtiden av träning. Exempelvis interaktiva moduler,
+    korta videos, eller exempel som vi pratade om nu, gamifiering av det? Har du några preferenser?
+B:
+    Ja men jag tror, när du nämner gamification.Fför det tror jag... rent generellt så tror jag att det är ett ganska bra sätt att lära sig saker.
+    Man skulle kunna göra någonting där man får gå igenom olika scenarion, där vissa scenarion inte är phishing, medan andra scenarion är det.
+    Så att man också blir tränad samtidigt som man gör någonting, så att beteendet tränas samtidigt, så det tror jag skulle kunna vara jättebra.
+    För även om du visar exempel så är det lätt att identifiera, men sen när man väl är i resan så tror jag att där krävs det nog också träning.
+    Så det tror jag skulle kunna vara jättebra,  mer i det här interaktiva "en grej, vi tar dig igenom den här resan". Och hjälper med en röd tråd genom olika scenarion. 
+IP:
+    Så att man kanske kan knyta an vid framtida gånger till det man gjorde förut?
+B:
+    Ja, men lite så. Jag tror att om man har gjort det, så tror jag man reflekterar mera över det då. 
+IP:    
+    Hur länge skulle du var villig att spendera på en enstakad training session? Skulle du föredra kortare, men oftare, eller en lång?
+B:
+    Nej men jag tror nog på kortare oftare, just också för att repetera. Gör man en lång så lägger man den bakom sig och sen går det vidare,
+    så att jag tror mera på kontinuerliga så att man blir påminnd.
+IP:
+    Och vilket format skulle du föredra att få påminnelserna? 
+    Mail,  liten pop-up som säger "nu är det dags för din träning igen", eller skulle vi ha på SharePoint, alla av de tidigare nämnda?
+B:    
+    jag tror att det är rätt bra att få det som en pop-up, det tror jag kan vara bra.
+    För att få den här påminnelsen, sen så får man ju liksom risken med det... kanske att man klickar bort den... så glömmer man bort den då.
+    Men kanske att ha det i lite olika format... det kan vara en påminnelse som att när man ska ha ett möte får man en påminnelse. 
+    har man lagt in den i kalendern så får man ju också påminnelser. 
+    Men jag tror att ha lite små digitala övningar tror jag är bra men samtidigt kanske luckra upp det med ett fysiskt möte...
+    eller kanske följa upp det när alla har gjort den här träningen med "vad tyckte ni?", "kändes det svårt?", så att man får prata om
+    det på en... att ha någon workshop någon gång om träningen där man följer upp allt. Istället för att bara köra de här sessionerna. 
+    Utan så att  man kan ha chansen att ta och ge feedback och sina egna reflektioner, såsom vad man tyckte är svårt.
+    Så kan man ta med sig det till nästa session för att utveckla och optimera träningen och forma den på rätt sätt. 
+    Jag tror att det är viktigt att prata om frågan också så att det inte bara blir att individuellt, man sitter... utan att man faktiskt lägger upp det på bordet.
+    Som "det här upplevde jag", "här kan jag bli lurad", istället för att känna sig ensam och lurad och därav "dum"... dela med sig och prata om det. 
+IP:    
+    Det nämner ju i vår uppsats att oavsett hur kunnig man är, så kommer alla att misslyckas förr eller senare... det kan vara på grund av lapse of judgment på en dålig dag, så *klick*.
+B:
+    nej men exakt det beror på helt på vilket sinnestillstånd man är i... är du stressad, du ska iväg till någonting... då är det så mycket lättare
+    ... så att det kan hända alla, så jag tror att det är viktigt att man pratar om det.
+IP:
+    vi nämner också lite om mönster bland anställda... har du,  eller känner du att det finns några vanliga mönster som skulle kunna finnas, eller missförstånd
+    som skulle kunna finnas som kanske kan vara anledning till att vi misslyckas med phishing och hur skulle träning kunna addressera detta?
+B:
+    Språkmässigt... finns det till exempel
+    Eftersom det handlar mycket om digitalt och den typen och så kan man kanske använda språket därefter.
+    Men jag tror det är som du säger, jag tror att det är bra också att anpassa det så att också att det finns på lite olika nivåer beroende på vem som ska göra det.
+    Man kanske utsätts för olika saker baserat på vilken roll man har... 
+    Anpassa det efter den situationen som man själv är i... till exempel att "de här personerna, de har oftast mycket möten"... eller att "den här personen är ofta stressad" och då kanske det är lätt att de klickar fel.
+IP:    
+    Då är vi på sista frågan... är det några specifika scenarion eller exempel som du skulle vilja att man implementerade något som du till exempel, hört, sett, eller liknande?
+B:
+    inget som jag egentligen har tänkt på.
+    men jag tror att det är jätteviktigt att man har en kontinuitet hela tiden i hur man lyfter frågan... så att det blir normaliserat att prata om det framförallt, vilket jag tycker att man har kommit
+    ganska långt men det kan nog fortfarande vara jobbigt... för att man känner sig... det är aldrig roligt att bli lurad.
+    att fortsätta kontinuerligt prata om det, ha utbildningar, och sen feedback sessionerna... nej men de tror jag är jätteviktiga.
+    jag tror framförallt att få människor att känna att man har inte gjort något fel... och att fortsätta jobba med att 
+    man ska flagga och be om hjälp... är du osäker, be om hjälp... har någonting hänt, be om hjälp... och vara öppen.
+IP:    
+    Är det någonting annat du skulle vilja ta upp eller något du vill fråga om angående här ämnet eller liknande?
+B:    
+    nej men jag tycker att det är ett intressant ämne... jag tycker att det är superviktigt att det kommer upp eftersom det är så så vanligt det är ledsamt att det sker.
+IP:
+    Okej, då säger jag tack så jättemycket!
+B:
+    Tack!

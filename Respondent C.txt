@@ -1,0 +1,297 @@
+IP:
+    Okay, so a little bit of a rundown... I don't know if you're fully aware of what we're writing about, but to make it really short, it's cybersecurity, human factor...
+    and we are investigating how phishing can increase the effectiveness of other cyber crimes, and also how a training program can be developed
+    to further empower employees' understanding of phishing and reduce the susceptibility of them.
+C:    
+    Nice, yeah.
+IP:    
+    And then I'm just going to have to ask, is it okay that this is recorded, and state full name, and then we can move on.
+C:    
+    Okay, so that's what I do now, state my full name?
+IP:    
+    Correct... And today's date.
+C:    
+    Yeah, well, it's the 22nd of May, 2025.
+    My full name is FirstName LastName.
+    I work at Euro Commercial Properties, and I consent to this being recorded.
+    No problem whatsoever.
+IP:    
+    Perfect, thank you.
+C:    
+    You would have seen my face if the camera worked.
+IP:    
+    That's great, that's everything I needed.
+    So I'm going to start it with... could you describe the current philosophyor strategic approach behind the organization's phishing awareness training program that you will implement?
+    What are the primary objectives that you aim to achieve?
+C:    
+    For me, the primary objective would be to, I wouldn't say eradicate, but alleviate some of this, lessen the risk of the human factor, really.
+    Eventually, you know, someone will fall for a phishing attempt, period.
+    You know, you can be super IT savvy, it happens.
+    What I would like to do is give people at least the tools to recognize it, to be aware of it.
+    And to further that, we have a phishing campaign, where people are, you know, actually actively phished.
+    But also to handle the tools to do that, the main philosophy here is just repetition.
+    So bring this to the foreground, bring this top of mind, I would say four or five, maybe four or five
+    times a year, with quick five minutes, ten minutes trainings, and some news posts every now and then.
+    Yeah, that's basically the general idea.
+    Minimize risk, and at least hope that the really stupid ones at least are blocked.
+IP:
+    Okay, yeah... I know about one of them, but is there any specific types of training programs or tools that we're currently utilizing?
+C:    
+    We have the quarantine, for example, but like...
+    There are a bit of tools, and I think on the technical part of it, I think *Colleague* can tell you a little bit more how they work.
+    Obviously, we have a standard... We have the standardized tools that Defender offers, which means that email is scanned
+    and sometimes blocked, not always, but sometimes.
+    Sometimes things are not blocked, and if things are in current time, they should be reviewed by at least
+    someone knowledgeable before they are released.
+    So that's the thing we're doing.
+    Other than that, we have a phishing campaign that is being sent out via a knowBe4, and we have the training
+    via knowBe4.
+    And then we also have the report phishing button and stuff, right?
+    And obviously, we have on the background, back end of it, we have quite a few tests and assessments on our security and our security policies.
+    But that's it, I think, a bit of a different topic.
+IP:    
+    Yes... How will we measure the effectiveness of phishing awareness training?
+    Will it be tracking metrics like click-through rates from simulations, or will it be utilizing alternative ways to measure it?
+C:    
+    Click-through rates...
+    Yes, we measure click-through rates, which is, in reality, the only real way we can measure
+    this, because we can see that someone has, you know, if you embed a symbol or something
+    in the email, you can see that the email has been opened, but it has, but depending on the
+    settings on your email client, opening it is necessary to actually read it, so that doesn't
+    tell us anything.
+    So, for me, it's just pure click-through ratings is what we measure by, yes.
+IP:    
+    Okay...
+    In our thesis, we highlight that phishing remains as the most prevalent social engineering threat,
+    thriving even where sophisticated technical controls are in place.
+    What are the biggest challenges that you think that you face in mitigating the human element
+    of phishing attacks within our organization?
+C:    
+    The human element.
+    And I'm trying to phrase this in a way that sounds nice, but...
+IP:    
+    You don't have to.
+C:    
+    In essence...
+    No, no, no.
+    But like...
+    As I said, an IT person that gets a good phishing mail at the wrong moment will also most likely
+    fall for it, right?
+    We all clicked once.
+    I have clicked on...
+    You know, if you haven't, it's just a matter of time.
+    So, the main challenge we have within our company is that we have a huge group of people who are excessively technically... not great, basically.
+    They... how do you say it in English... have a fear of computers.
+    Their level of knowledge is very, very low... Combine that with sometimes a language barrier, and it is...
+    And we see that click-through rates in certain countries can be quite severe. Because they just don't understand what they're doing.
+    So, that, I think, is the main challenge here.
+IP:    
+    Okay...
+    What are the most prevalent and concerning phishing threats that you are observing right now?
+    Are you seeing an increase in spear phishing, whaling, or perhaps, like, newer techniques
+    involving AI-generated media or QR codes?
+C:    
+    What I...
+    I haven't seen any of them reaching towards us.
+    What I have seen is...
+    I hesitate to call it spear phishing because I think it's still quite general.
+    I know that, for instance, our CEO and the C-Suite, as they say so beautifully here, basically
+    the ones who are the public faces of the company, they do get spear phished.
+    Especially the CEO, oftentimes proudly hands me a printed-out email saying,
+    "I've got one again".
+    Which is really nice.
+    So, they're very much aware.
+    And they do get spear phished.
+    Like, hey, we talked this and there.
+    Here's the invoice.
+    Or, you know...
+    Or finance gets this as well.
+    That is the main risk, but that is more aimed at financial fraud.
+    They want them to pay something.
+    But that's a different type of control.
+    It's just finance control that at least a couple of people have to agree on it, etc.
+    Before the actual payout comes.
+    From an IT perspective, that's a little bit less.
+    What I see from an IT perspective, where I think the highest risk for the whole organization
+    is...
+    Again, it's not necessarily spear phishing, but it is using our company name.
+    Sometimes even the user's name, but it is still quite general.
+    Like, hey, you know, hey.
+    And then they use a variation of the email address.
+    This user, you need to reset your password, blah, blah, blah, click here, and then they
+    get a pop-up.
+    And then they fill in their credentials.
+    That's... It's somewhere in the middle between a very general and a spear phishing, I think.
+    That's where I think the main risk is, because I would assume that if we have a couple people falling for that...
+    ...that we, at some point, we get on a...
+    You know, we get on a scammer or a hacker's radar.
+    And then they know, oh God, they're vulnerable, and they might...
+    I mean, they might not get anywhere with that action itself, because IT-wise it's blocked.
+    But if they then go to social engineering or just focusing on us, then I think we're...
+    That's what I kind of want to avoid.
+IP:    
+    Yeah, okay.
+    Next one is what technical defenses, for example, automated email warnings, attachment,
+    sandboxing, are currently in place, and how do they work alongside with the upcoming training?
+C:    
+    Well, we have the standard things in Exchange and Defender.
+    So everything is scanned and blocked.
+    In general, we are quite lenient here is that we don't...
+    Only if it gets flagged by the system, whether spam, phishing, or whatever is moved to current
+    time.
+    We do a lot.
+    Again, *colleague* can tell you more about the technical details.
+    It does not in any way tie into the training right now.
+    I see them as complementary, where like the spam filter or the defender stops the bulk or the very obvious ones or whatever that we are triggered by, and then you refine it down that the user obviously needs to be smart as well.
+IP:
+    So it's just a symbiotic relationship that they just live together.
+C:
+    Yeah, correct.
+IP:
+    Okay... Now we're coming to "future development and strategic thinking"...
+    Based on your observation of data, where do you believe the future training program that
+    we just started implementing will succeed, and where do you see the most significant areas
+    for improvement?
+C:    
+    What I think where it will succeed is at least bringing this as a bit of awareness in people's
+    world.
+    That they know there is issues, that they know this is a thing, right?
+    That just, I hope to make people aware of the different ways that fraud can be started up, so they are a little bit more conscious and don't immediately trust things.
+    Right now we're focusing primarily on the email as a medium.
+    With AI and further on developments, I would assume we're also going to focus a lot on maybe the video calling, video phishing, or, you know, where you see some, or maybe just a phone call.
+    We have, for instance, shown a couple of times that the voice of someone can very easily be faked.
+    We're not aiming at specific things, but just making people aware that these options exist, and that's how we hope that they then, if something actually happens, that they're a little bit more critical than they would normally be.
+IP:
+    So just like bringing light to that these are things that could happen.
+C:    
+    Yeah.
+IP:
+    And how do you plan to incorporate reinforcement mechanics to ensure long-term retention of knowledge and behavioral change?
+C:    
+    That's basically the whole philosophy behind the training is that we're going to repeat it.
+    Like every three months. I would like to do something at least every three months. Again, small, like 5-10 minute courses or something.
+    Maybe longer if we have interesting topics, but on phishing.
+    I would say bi-to tri-monthly or something.
+IP:
+    OKay, and what are your thoughts on personalizing the training data, considering some sources have seen that message personalization sharply increases success rate of attackers?
+C:    
+    Um, I think we already do this.
+    Um, we do my, my hope or my, what I want to do is both.
+    So I get very targeted emails like to the people themselves and much more general and see what sticks.
+    Looking at the success rates, I think you've seen them as well. You see that the trickier and that a certain person email are much, much higher, much higher success rate.
+IP:
+    Um, will we be segmenting users by role?
+    For example, like finance, HR executives, when crafting the scenarios and, if yes, what drove that
+    decision?
+C:    
+    At the moment?    
+    No, what I probably will have at some point in segmenting is that, uh, people that fall for the phishings or we'll get additional, uh, training courses assigned to them.
+    Um, and maybe a few where I do some country specific or language specific, uh,
+IP:
+    So like geo-based things.
+C:    
+    Yeah.
+    Geo-based like that, but not on any, um, not on roles at the moment.
+    If, if that, if that, if that, uh, that's also because I, from the IT perspective don't actually know what roles people have within the company.
+IP:
+    How do we stay updated on, or how do you stay updated on evolving phishing techniques and incorporate new threat intelligence into our training modules?
+C:    
+    For me, that would be, I read about them on the internet.
+    Uh, uh, I mean, yeah, I follow quite a few tech-sites. I read some of the... you know, the security reports and I follow a couple of those...
+    newsletters in general, yeah, that's, that's basically how, and if they could become prevalent or seem dangerous enough, then we will see if we can find something in the training, in a training module.
+    But it also depends on... necessity really.
+IP:
+    Given that fishing often serves as the initial point of attack for further attacks.
+    How would the training program address the broader implications of successful fishing?
+C:    
+    What do you, what do you mean by that?
+IP:    
+    Uh, so like, would there be training segments of like, if you fall for fishing, this is what you're supposed to do. And like guide them or if they actually fall for it, how to act.
+C:
+    That's actually, now that you've clarified, I think it's actually quite a good question because it's something I, I realized as well that we have very, um, we have, we have a
+    clear policy like contact IT.
+    And we will just reset your password. And we have a run book... but I realized that maybe for the end user, unless it is very clear that they have been phished, uh, it might not be, they might just close the browser and be okay.
+    No one's seen this... I'm safe.
+    So I think that for the, I think that some communication to the users about what, if I suspect I have been phished, what can I do myself?
+    You know, click a big red button on an IT page or something.
+    But like, what is my... responsibility as someone who has been phished?
+    I think communicating that better to people might be helpful.
+    So we might... it is part of the training and that we always say contact IT.
+    But I think we could make that a little bit more specific in, you know, maybe sending
+    an email every now and then, like, if you have an issue, if you have questions, or you think you're phished, click here and that we can then also pick it up with priority.
+IP:
+    Yeah, okay... what organizational barriers like budget, time, executive sponsorship, et cetera, shape
+    how you, and in general, the, the training will be designed and rolled out?
+C:    
+    Um, at the moment, none.
+IP:    
+    Oh, well that's fancy.
+C:
+    Yeah.
+    Well, the, the, the thing is with, uh, with the C-suite being basically spent to hell and back, they are very, well, I mean, they're very actively phished.
+    So for them, it's something that they want to roll out.
+    There were no real budgetary constraints, obviously. I mean, we haven't done anything really exciting.
+    The platform is not free, but not excessively expensive. Top of my mind, I think it's six euros per person per month or something to enroll.
+    So, and, and then some extra setups.
+    So it's, it's not prohibitively expensive.
+    Well, you know, if you just 200 people, it adds up, but it's not, it's not prohibitively expensive.
+    So there are very, um, little barriers at the moment.
+    And I think reception on, uh, especially on the managerial level, I think is quite, quite
+    good.
+    But we do need some people to actually, chase everyone to actually do the courses.
+    And I think that's the, that's the next challenge.
+    But so far, uh, I do not experience any meaningful barrier.
+IP:
+    Awesome, how will we ensure that the training remains engaging and relevant, preventing it from becoming
+    a check box exercise?
+    Will we collect in corporate and in corporate employee feedback after each campaign?
+    Or how do you, how do you plan this?
+C:    
+    I hope to just... every now and then do a small presentation about the numbers and try and get some feedback from people itself.
+    I don't think this is a risk you can completely avoid. I've worked at previous banks before you get them every month.
+    It's just stupid. They're also, you know, they're also made for the lowest common denominator.
+    So they go from the general, the level isn't extremely high.
+    And they will for, especially for it, this will often be a chore.
+    I think if you're slightly knowledgeable on the topic, the training is just silly. I don't think you can really avoid it.
+    I don't also don't really think that's the point to just... just clicking through it.
+    Obviously we tried to make them engaging by, you know, doing maybe a small video.
+    This time we had a little bit of, I think this time we had two small videos, like less than three minutes and one silly game.
+    And something like that is... what I think is.... what I think we, we should be doing just small bits often, with some interaction required.
+    So you just cannot turn it on and walk away.
+IP:
+    Then last question is looking ahead.
+    What are your strategic priorities for evolving the fishing awareness training program in the coming
+    years?
+    Are there any new technologies or methodologies you're considering implementing?
+C:    
+    For now... I just want to, as we just recently started... The setup took a little bit longer than anticipated, but in general, I say for now, I just want to keep doing these and see how, how the, what the results are.
+    And if we are happy with the new training that is being developed as well.
+    In theory, we, you know, we, as you know, we are, we signed up for a platform on which a lot of training is available.
+    But I do notice that in the past couple of months that there is not much added... so I see a lot of recycling of older... training come by and that might be a point where
+    I think, we should move on... other platforms are a little bit more onto the gamifying it.
+    So it's more fun to do it.
+    I think, you know, it might work for some people. It might not.
+    For now, I just want to see in test results and if it, if it works, it works and if it doesn't work, then... yeah, we're moving on.
+    But... but unless there is some severe increase in danger and success rate and whatnot.
+    I would say that we will also always stay with something, a variation on this team.
+    At some website, you do a small training, et cetera.
+    We, maybe we get some presentations going and stuff like that, but... no thanks.
+IP:
+    Sounds good, then is there anything else you would like to add or comment on or bring to light that
+    we maybe should look into?
+C:    
+    I'm thinking here.
+    I mean... I would love to give you something to look up at the end when you're trying to finish up, but no, I, no, I don't.
+IP:    
+    Okay.
+    Well then I, I thank you for your precision patience and, uh.
+C:    
+    You're welcome.
+    It was my pleasure.
+    Of course.
+IP:    
+    Um, I forgot to mention it at the start, but all of this, like the recordings and everything
+    will be anonymized and then, uh, transcribed and then removed.
+C:    
+    Yeah.
+    That's fine.
